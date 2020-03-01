@@ -29,7 +29,6 @@ query {
     <Layout>
       <Head title='title' />
       <h1>Blog</h1>
-      <p>Posts will show up here later on.</p>
       <ol className={blogStyles.posts}>
         {data.allContentfulBlogPost.edges.map((edge) => {
           return (
