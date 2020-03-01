@@ -5,7 +5,7 @@ import Head from '../components/head'
 const ContactPage = () => {
     return (
         <Layout>
-            <Head title='contact'/>
+            <Head title='Contact'/>
             <h1>Contact</h1>
             <p>Work: kyoosiklee@codeit.kr </p>
             <p>Personal: kyoosik.lee@gmail.com</p>
